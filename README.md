@@ -1,4 +1,4 @@
 # scientific-gateway-test
 
-Arpit Agarwal
+Arpit Agarwal </br>
 Indiana University Bloomington
